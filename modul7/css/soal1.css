@@ -1,0 +1,8 @@
+.card{margin: 50px auto;
+  width: 299px;
+  height: 299px;
+  border-radius: 20px;
+  background: rgb(2, 83, 150);}
+.card input{width: 100 px;height: 20px; margin: 50px 0 0 0px;padding: 0 0px 0 0px;}
+.card h1{color: aliceblue;font-size: 100px; margin: 10px 0 0 0px;padding: 0 0px 0 0px;}
+h1:hover{transform: rotate(360deg);transition: all 1s;}
